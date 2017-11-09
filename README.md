@@ -2,20 +2,20 @@
 
 본 페이지는 RxAndroid 개인 학습 페이지 입니다. 아래와 같은 페이지를 참고하였습니다.
 
-Android developer 88{
+* Android developer 88{
 
-​	<a herf=http://developer88.tistory.com/1>RxAndroid part1</a>
+​	[RxAndroid part1](http://developer88.tistory.com/1)
 
-​	<a herf=http://developer88.tistory.com/2>Retrofit + RxAndroid를 이용한 Json 파싱</a>
+​	[Retrofit + RxAndroid를 이용한 Json 파싱](http://developer88.tistory.com/2)
 
-}
+​	}
 
-<a herf=https://github.com/ReactiveX/RxAndroid>RxAndroid</a>
+* [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 
 
 
-1. RxAndroid- RxJava를 안드로이드에 맞게 적용한 라이브러리로 RxJava에  대해서는 다음 페이지에 정리 해 놓았습니다. <a herf=https://github.com/Leejigun/RxJavaTesting>(RxJava git page)</a>
-2. <a herf=https://github.com/ReactiveX/RxAndroid>RxAndroid</a> git page에서 항상 최신 버전을 확인하고 Dependency를 추가 하도록 합시다.
+1. RxAndroid- RxJava를 안드로이드에 맞게 적용한 라이브러리로 RxJava에  대해서는 다음 페이지에 정리 해 놓았습니다. [(RxJava git page)](https://github.com/Leejigun/RxJavaTesting)
+2. [RxAndroid git page](https://github.com/ReactiveX/RxAndroid)에서 항상 최신 버전을 확인하고 Dependency를 추가 하도록 합시다.
 
 
 
